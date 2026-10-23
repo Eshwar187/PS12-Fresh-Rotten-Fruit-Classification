@@ -1,0 +1,17 @@
+# Credentials / secrets
+kaggle.json
+.env
+.env.*
+*.pem
+
+# Dataset and generated model artifacts
+fruit_data/
+dataset/
+*.keras
+*.h5
+*.zip
+
+# Python / notebook cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
